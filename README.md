@@ -38,7 +38,7 @@ I’m open to collaboration, new challenges, and opportunities to grow as a deve
   <a href="https://github.com/fnvsk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/markenciy" target="_blank">
+  <a href="https://t.me/raitta" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
