@@ -29,14 +29,33 @@ from the interface to the server they run on, and I like turning side projects i
 
 ---
 
-## 🧰 Languages and tools
+## 🧰 Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,nestjs,python,django,postgres,tailwind,html,css&perline=13" alt="TypeScript, JavaScript, React, Vue, Next.js, Node.js, NestJS, Python, Django, PostgreSQL, Tailwind, HTML, CSS"/>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,docker,nginx,linux,git,vercel,androidstudio&perline=13" alt="Vite, Docker, nginx, Linux, Git, Vercel, Android Studio"/>
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,tailwind,html,css,vite" alt="TypeScript, JavaScript, React, Vue, Next.js, Tailwind, HTML, CSS, Vite"/>
+
+**Backend and databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,postgres" alt="Node.js, NestJS, Python, Django, PostgreSQL"/>
+
+**Servers and hosting**<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,vercel,git,github" alt="Docker, nginx, Linux, Vercel, Git, GitHub"/>
+
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
+
+**Maps and navigation**<br/>
+<img src="https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre GL"/>
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/>
+<img src="https://img.shields.io/badge/Valhalla_routing-1F2937?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Valhalla routing"/>
+
+**Bots and integrations**<br/>
+<img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API"/>
+<img src="https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Mini Apps"/>
+
+**AI tools**<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
 
 ---
 
