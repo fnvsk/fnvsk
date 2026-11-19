@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-label="Mark Chaikauskas: full-stack developer in Tampere, Finland, creator of RAITTA">
+  <title>Mark Chaikauskas</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070D1C"/>
+      <stop offset="0.55" stop-color="#0C1834"/>
+      <stop offset="1" stop-color="#101038"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF">
+        <animate attributeName="stop-color" values="#FFFFFF;#9DBBFF;#D7B8FF;#FFFFFF" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#9DBBFF">
+        <animate attributeName="stop-color" values="#9DBBFF;#D7B8FF;#FFFFFF;#9DBBFF" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <path id="route" d="M60 364 H400 Q440 364 462 344 L500 308 Q522 288 562 288 H900 Q940 288 962 308 L1000 344 Q1022 364 1062 364 H1440"/>
+  </defs>
+
+  <rect width="1500" height="420" fill="url(#bg)"/>
+  <rect width="1500" height="420" fill="url(#grid)"/>
+  <circle cx="1180" cy="80" r="190" fill="#155EEF" opacity="0.45" filter="url(#blur)">
+    <animate attributeName="cx" values="1180;1120;1180" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="390" r="170" fill="#8B3FD9" opacity="0.35" filter="url(#blur)">
+    <animate attributeName="cx" values="320;390;320" dur="16s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="70" y="104" fill="#8FA3C8" font-size="22" font-weight="600" letter-spacing="5">HI, I’M</text>
+    <text x="66" y="172" fill="url(#title)" font-size="72" font-weight="800" letter-spacing="-1">Mark Chaikauskas</text>
+    <text x="70" y="222" fill="#C9D4EA" font-size="28" font-weight="500">Full-stack developer · Tampere, Finland</text>
+    <text x="70" y="262" fill="#8FA3C8" font-size="22">Creator of <tspan fill="#7EA6FF" font-weight="700">RAITTA</tspan>, public transport and navigation for Finland</text>
+  </g>
+
+  <use href="#route" fill="none" stroke="#155EEF" stroke-opacity="0.25" stroke-width="16" stroke-linecap="round"/>
+  <use href="#route" fill="none" stroke="#3B7BFF" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#0C1834" stroke="#FFFFFF" stroke-width="4">
+    <circle cx="140" cy="364" r="9"/>
+    <circle cx="330" cy="364" r="9"/>
+    <circle cx="680" cy="288" r="9"/>
+    <circle cx="840" cy="288" r="9"/>
+    <circle cx="1200" cy="364" r="9"/>
+    <circle cx="1380" cy="364" r="9"/>
+  </g>
+  <g font-family="'Segoe UI', 'Inter', -apple-system, Arial, sans-serif" font-size="15" fill="#8FA3C8" font-weight="600">
+    <text x="140" y="398" text-anchor="middle">React</text>
+    <text x="330" y="398" text-anchor="middle">TypeScript</text>
+    <text x="680" y="322" text-anchor="middle">Node.js</text>
+    <text x="840" y="322" text-anchor="middle">Python</text>
+    <text x="1200" y="398" text-anchor="middle">Maps</text>
+    <text x="1380" y="398" text-anchor="middle">Android</text>
+  </g>
+  <g filter="url(#glow)">
+    <rect x="-22" y="-12" width="44" height="24" rx="8" fill="#155EEF" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="800" fill="#FFFFFF">14</text>
+    <animateMotion dur="11s" repeatCount="indefinite" rotate="auto" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#route"/>
+    </animateMotion>
+  </g>
+</svg>
