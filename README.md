@@ -10,6 +10,16 @@ I’m open to collaboration, new challenges, and opportunities to grow as a deve
 
 ---
 
+## 🚍 Featured project: RAITTA
+
+**[RAITTA](https://raitta.fi)** is a public transport and navigation app for Finland: live buses, trams, metro and trains on the map, a journey planner, timetables, network maps and car navigation, in five languages.
+
+- 🗺️ Web app: [maps.raitta.fi](https://maps.raitta.fi) · Android app · Telegram Mini App
+- ⚙️ React, TypeScript, MapLibre GL, Capacitor, Vercel functions, Valhalla routing on my own server
+- 📦 Code: [raitta-maps](https://github.com/fnvsk/raitta-maps) (the app) · [raitta-landing](https://github.com/fnvsk/raitta-landing) (the website). Ideas and pull requests are welcome.
+
+---
+
 ## 🧰 Languages and Tools
 
 <p align="left">
@@ -21,7 +31,7 @@ I’m open to collaboration, new challenges, and opportunities to grow as a deve
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.ZstA4kKcBk1lhR01mPEINQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
